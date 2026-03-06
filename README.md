@@ -1,13 +1,7 @@
-# Olá, eu sou o Hércules 👋
+# Prazer, eu sou o Hércules👋
 
 ## 🚀 Sobre mim
-Sou estudante de Engenharia de Software com foco em desenvolvimento web. Tenho experiência prática com React, TypeScript e Python, e interesse constante em boas práticas de código, arquitetura de software e construção de aplicações escaláveis. Além da tecnologia, atuo como agricultor, o que reforça minha disciplina e visão prática na resolução de problemas.
-
-- 🔭 Atualmente desenvolvendo o **Gerente Pessoal de Bolso** — aplicação de finanças pessoais com React 19
-- 🌱 Aprofundando conhecimentos em **Clean Code, Arquitetura de Software e Boas Práticas**
-- 💬 Posso ajudar com **Python, TypeScript, React** ou até **cultivo de morangos**
-- 📫 Contato: **trindadehan@gmail.com**
-- ⚡ Curiosidade: também sou agricultor de morangos 🍓
+Estudante de Engenharia de Software. Tenho experiência prática com React, TypeScript, Python e interesse em boas práticas de código, arquitetura de software e construção de aplicações escaláveis. Além da tecnologia, sou um agricultor de Morangos.
 
 ---
 
