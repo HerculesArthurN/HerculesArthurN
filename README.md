@@ -1,50 +1,52 @@
-# Prazer, eu sou o Hércules👋
+# 🍓 Hi, I'm Hércules
 
-## 🚀 Sobre mim
-Estudante de Engenharia de Software. Tenho experiência prática com React, TypeScript, Python e interesse em boas práticas de código, arquitetura de software e construção de aplicações escaláveis. Além da tecnologia, sou um agricultor de Morangos.
+Software Engineer & Strawberry Farmer.
 
 ---
 
-## 🛠️ Tech Stack
+### 💡 About Me
+
+- 🎓 Graduated in **Software Engineering**.
+- 🌱 Focused on clean code, software architecture, and scalable systems.
+- 🍓 Away from the screen, I cultivate strawberries and manage agricultural production.
+
+---
+
+### 📊 Dynamic Stats & Activity
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <!-- GitHub Overall Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerculesArthurN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Hércules' GitHub Stats" />
+  
+  <!-- Auto-Updating Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesArthurN&layout=compact&theme=dracula&hide_progress=false" alt="Most Used Languages" />
+</div>
 
-  <br />
+<br />
 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div align="center">
+  <!-- Streak Stats (Calcula sequências de commits automaticamente) -->
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=HerculesArthurN&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Contribution Graph
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerculesArthurN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesArthurN&layout=compact&theme=dracula" />
-</div>
+<p align="center">
+  <!-- Gráfico de atividade das contribuições em tempo real -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HerculesArthurN&theme=dracula" alt="Contribution Graph" width="100%" />
+</p>
 
 ---
 
-## 🔗 Conecte-se comigo
+### 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hercules-arthur-nardelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:trindadehan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
