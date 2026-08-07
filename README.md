@@ -1,14 +1,4 @@
-# 🍓 Hi, I'm Hércules
-
-Software Engineer & Strawberry Farmer.
-
----
-
-### 💡 About Me
-
-- 🎓 Graduated in **Software Engineering**.
-- 🌱 Focused on clean code, software architecture, and scalable systems.
-- 🍓 Away from the screen, I cultivate strawberries and manage agricultural production.
+# Hi, I'm Hércules a Software Engineer 🍓
 
 ---
 
