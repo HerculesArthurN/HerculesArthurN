@@ -5,16 +5,6 @@
 ### 📊 Dynamic Stats & Activity
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerculesArthurN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Hércules' GitHub Stats" />
-  
-  <!-- Auto-Updating Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesArthurN&layout=compact&theme=dracula&hide_progress=false" alt="Most Used Languages" />
-</div>
-
-<br />
-
-<div align="center">
   <!-- Streak Stats (Calcula sequências de commits automaticamente) -->
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=HerculesArthurN&theme=dracula" alt="GitHub Streak" />
 </div>
